@@ -1,0 +1,13 @@
+backend/.venv/
+venv/
+node_modules/
+__pycache__/
+.env
+
+*.log
+*.pt
+*.pth
+*.onnx
+*.bin
+
+
